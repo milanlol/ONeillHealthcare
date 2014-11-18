@@ -1,0 +1,710 @@
+
+.locpan {
+  padding: 20px;
+  background-color: #99E2BB;
+  color: #FFF;
+  -moz-transition: all 0.6s ease;
+  -webkit-transition: all 0.6s ease;
+  -ms-transition: all 0.6s ease;
+  -o-transition: all 0.6s ease;
+  transition: all 0.6s ease;
+  border-radius: 5px;
+  margin: 5px; }
+  .locpan:hover {
+    -moz-transform: scale(1.05);
+    -webkit-transform: scale(1.05);
+    -o-transform: scale(1.05);
+    -ms-transform: scale(1.05);
+    transform: scale(1.05);
+    z-index: 2; }
+  .locpan p a {
+    font-size: 16pt;
+    color: #000; }
+  .locpan p {
+    color: #000; }
+
+.locfooter .container .row .col5 {
+  padding: 5px; }
+
+.locCont {
+  padding-top: 120px;
+}
+
+.gm-style-iw {
+  width: 315px; }
+
+/* Header */
+#head {
+  background: #004C3D url(../images/header/index_onhc.jpg) no-repeat;
+  background-size: cover;
+  min-height: 520px;
+  text-align: center;
+  padding-top: 240px;
+  color: #fff;
+  font-family: "Open sans", Helvetica, Arial;
+  height: 600px;
+  margin-top: 100px;
+  background-position: center; }
+  #head.services {
+    min-height: 400px;
+    padding-top: 0px;
+    background: #004C3D url(../images/header/services_onhc.jpg) no-repeat;
+    background-size: cover;
+    background-position: center; }
+  #head.about {
+    min-height: 400px;
+    padding-top: 0;
+    background: #004C3D url(../images/header/about_onhc.jpg) no-repeat;
+    background-size: cover;
+    background-position: top center; }
+  #head.lifestyle {
+    min-height: 400px;
+    padding-top: 0;
+    background: #004C3D url(../images/header/lifestyle_onhc.jpg) no-repeat;
+    background-size: cover;
+    background-position: top center; }
+  #head.skillednursing {
+    min-height: 400px;
+    padding-top: 0;
+    background: #004C3D url(../images/header/skilled_nursing_onhc.jpg) no-repeat;
+    background-size: cover;
+    background-position: center; }
+  #head.contact {
+    min-height: 400px;
+    padding-top: 0;
+    background: #004C3D url(../images/header/contact_onhc.jpg) no-repeat;
+    background-size: cover;
+    background-position: bottom center; }
+  #head.therapy {
+    min-height: 400px;
+    padding-top: 0;
+    background: #004C3D url(../images/header/rehabilitative_therapies_onhc.jpg) no-repeat;
+    background-size: cover;
+    background-position: top center; }
+  #head.assisted-living {
+    min-height: 400px;
+    padding-top: 0;
+    background: #004C3D url(../images/header/assisted_living_onhc.jpg) no-repeat;
+    background-size: cover;
+    background-position: top center; }
+  #head.independent {
+    min-height: 400px;
+    padding-top: 0;
+    background: #004C3D url(../images/header/independent_living_onhc.jpg) no-repeat;
+    background-size: cover;
+    background-position: top center; }
+  #head.memory {
+    min-height: 400px;
+    padding-top: 0;
+    background: #004C3D url(../images/header/memory_support_onhc.jpg) no-repeat;
+    background-size: cover;
+    background-position: center; }
+  #head.hospice {
+    min-height: 400px;
+    padding-top: 0;
+    background: #004C3D url(../images/header/hospice_care_onhc.jpg) no-repeat;
+    background-size: cover;
+    background-position: center; }
+  #head.dialysis {
+    min-height: 400px;
+    padding-top: 0;
+    background: #004C3D url(../images/header/dialysis_onhc.jpg) no-repeat;
+    background-size: cover;
+    background-position: center; }
+  #head.bradleybay {
+    padding-top: 0;
+    background: #004C3D url(../images/header/bay_village_onhc.jpg) no-repeat;
+    background-size: cover;
+    background-position: center; }
+  #head.fairview {
+    height: 500px;
+    min-height: 400px;
+    padding-top: 0;
+    background: #004C3D url(../images/header/fairview_park_onhc.jpg) no-repeat;
+    background-size: cover;
+    background-position: center; }
+  #head.centerridge {
+    padding-top: 0;
+    background: #004C3D url(../images/header/north_ridgeville_onhc.jpg) no-repeat;
+    background-size: cover;
+    background-position: center; }
+  #head.lakewood {
+    padding-top: 0;
+    background: #004C3D url(../images/header/lakewood_onhc.jpg) no-repeat;
+    background-size: cover;
+    background-position: center; }
+  #head.wellington {
+    padding-top: 0;
+    background: #004C3D url(../images/header/north_olmsted_onhc.jpg) no-repeat;
+    background-size: cover;
+    background-position: center; }
+  #head.emp {
+    min-height: 400px;
+    padding-top: 0;
+    background: #004C3D url(../images/header/employment_onhc.jpg) no-repeat;
+    background-size: cover;
+    background-position: top center; }
+  #head .lead {
+    font-family: "Open sans", Helvetica, Arial;
+    font-size: 54px;
+    margin-bottom: 6px;
+    color: #fff;
+    line-height: 1.15em;
+    font-weight: 500;
+    text-shadow: 3px 3px 2px #000;
+    -moz-text-shadow: 3px 3px 2px #000;
+    -webkit-text-shadow: 3px 3px 2px #000;
+    -ms-text-shadow: 3px 3px 2px #000; }
+  #head .tagline {
+    color: #fff;
+    margin-bottom: 25px;
+    font-weight: 600;
+    font-size: 15pt;
+    text-shadow: 3px 2px 4px #000;
+    -moz-text-shadow: 3px 2px 4px #000;
+    -webkit-text-shadow: 3px 2px 4px #000; }
+    #head .tagline a {
+      color: #000; }
+  #head .btn {
+    margin-bottom: 10px; }
+  #head .btn-default {
+    text-shadow: none;
+    background: #fff;
+    color: #000;
+    -webkit-box-shadow: inset 0px 0px 0px 3px rgba(255, 255, 255, 0.5);
+    -moz-box-shadow: inset 0px 0px 0px 3px rgba(255, 255, 255, 0.5);
+    box-shadow: inset 0px 0px 0px 3px rgba(255, 255, 255, 0.5);
+    background: #fff; }
+    #head .btn-default:hover, #head .btn-default:focus {
+      color: rgba(255, 255, 255, 0.8);
+      -webkit-box-shadow: inset 0px 0px 0px 3px rgba(255, 255, 255, 0.8);
+      -moz-box-shadow: inset 0px 0px 0px 3px rgba(255, 255, 255, 0.8);
+      box-shadow: inset 0px 0px 0px 3px rgba(255, 255, 255, 0.8);
+      background: transparent; }
+    #head .btn-default:active, #head .btn-default.active {
+      color: #fff;
+      -webkit-box-shadow: inset 0px 0px 0px 3px #fff;
+      -moz-box-shadow: inset 0px 0px 0px 3px #fff;
+      box-shadow: inset 0px 0px 0px 3px #fff;
+      background: transparent; }
+
+ 
+
+/* Navigation */
+.navbar-nav>li>.dropdown-menu {
+padding: 0;
+}
+
+.dropdown-menu li {
+  border-bottom: 1px solid #C7C7C7;
+}
+.navbar-inverse {
+  background: #F5F5F5;
+  min-height: 0;
+  padding: 10px 0;
+  box-shadow: 1px 1px 5px #555;
+  font-size: 14pt; }
+
+.navbar-nav {
+  margin: 40px 0 0 0 !important; }
+  .navbar-nav .dropdown-menu {
+    background: #e7e7e7;
+    font-size: 10pt; }
+    .navbar-nav .dropdown-menu > li > a {
+      color: #004C3D;
+      font-size: 12pt; }
+
+.navbar-inverse .navbar-nav > .active > a {
+  background: none;
+  color: #004C3D;
+  text-decoration: underline; }
+.navbar-inverse .navbar-nav > .open > a {
+  color: #000; }
+
+.navbar-nav .dropdown-menu > li > a:hover {
+  color: #009344; }
+
+.navbar-inverse .navbar-toggle .icon-bar {
+  background-color: #000; }
+.navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus {
+  background-color: #009344; }
+
+.navbar-nav .dropdown-menu > .active > a {
+  background: none repeat scroll 0% 0% transparent;
+  color: #009344; }
+  .navbar-nav .dropdown-menu > .active > a:focus {
+    background: none repeat scroll 0% 0% transparent;
+    color: #009344; }
+.navbar-nav .dropdown-menu > li > a:hover, .navbar-nav .dropdown-menu > li > a:focus {
+  background: none repeat scroll 0% 0% rgba(255, 255, 255, 0.1);
+  color: #009344; }
+.navbar-nav .dropdown-menu > .active > a:hover {
+  background: none repeat scroll 0% 0% rgba(255, 255, 255, 0.1);
+  color: #009344; }
+
+.navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
+  color: #009344;
+  background: none; }
+.navbar-inverse .navbar-nav > li > a {
+  color: #004C3D; }
+  .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
+    color: #009344; }
+.navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus {
+  color: #009344; }
+
+.mini-nav {
+  list-style-type: none;
+  font-size: 15pt;
+  line-height: 40px;
+  border-top: 1px dashed green;
+  border-left: 1px dashed green;
+  border-right: 1px dashed green;
+  border-bottom: 1px dashed green;
+  padding: 20px;
+  margin-bottom: 0px; }
+  .mini-nav li {
+    margin-bottom: 20px; }
+  .mini-nav .btn {
+    font-size: 12pt;
+    font-weight: 400;
+  }
+
+/* Autohide navbar */
+.slideUp {
+  top: -140px; }
+
+.headroom {
+  -webkit-transition: all 0.4s ease-out;
+  -moz-transition: all 0.4s ease-out;
+  -o-transition: all 0.4s ease-out;
+  transition: all 0.4s ease-out; }
+
+/* Highlights (in jumbotron in most cases) */
+.jumbotron p {
+  font-weight: 300; }
+
+.highlight {
+  margin-top: 40px; }
+
+.h-caption {
+  text-align: center; }
+  .h-caption i {
+    display: block;
+    color: #382526;
+    margin-bottom: 36px; }
+  .h-caption h4 {
+    color: #382526;
+    font-weight: bold;
+    margin-bottom: 20px; }
+
+/* Typography */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Open sans", Helvetica, Arial; }
+
+h1, .h1, h2, .h2, h3, .h3 {
+  margin-top: 30px; }
+
+blockquote {
+  font-style: italic;
+  font-family: Georgia;
+  color: #999;
+  margin: 30px 0 30px; }
+
+label {
+  color: #777; }
+
+.thin {
+  font-weight: 300; }
+
+.page-title {
+  margin-top: 20px;
+  font-weight: 300; }
+
+.titles {
+  float: right;
+  padding-top: 100px; }
+
+.text-muted {
+  color: #888; }
+
+.breadcrumb {
+  background: none;
+  padding: 0;
+  margin: 30px 0 0px 0; }
+
+ul.list-spaces li {
+  margin-bottom: 10px; }
+
+/* Helpers */
+.container-full {
+  margin: 0 auto;
+  width: 100%; }
+
+.top-space {
+  margin-top: 60px; }
+
+.top-margin {
+  margin-top: 20px; }
+
+img {
+  max-width: 100%; }
+  img.pull-right {
+    margin-left: 10px; }
+  img.pull-left {
+    margin-right: 10px; }
+
+#map {
+  width: 100%;
+  height: 280px; }
+
+#social {
+  margin-top: 50px;
+  margin-bottom: 50px; }
+  #social .wrapper {
+    width: 340px;
+    margin: 0 auto; }
+
+.fa-star {
+  display: inline !important; }
+
+.stars {
+  padding-bottom: 15px; }
+
+.btn-action {
+  /*background-image: linear-gradient(to bottom, #009344 0%, #004C3D 100%);*/
+  background-image: none; }
+  .btn-action:hover {
+    background: none repeat scroll 0% 0% #009344; }
+  .btn-action:active, .btn-action:focus {
+    background: none repeat scroll 0% 0% #004C3D; }
+
+/* Main content block */
+.faq .row h4, .faq .row p {
+  padding-bottom: 20px; }
+
+.centered {
+  text-align: center; }
+
+.form-group input {
+  margin-bottom: 20px; }
+
+.success {
+  background-color: #50ba50;
+  color: white;
+  padding: 10px;
+  margin: 20px auto 20px auto;
+  border-radius: 5px;
+  text-align: center; }
+
+.error {
+  background-color: #FF9494;
+  padding: 10px 0;
+  margin: 20px auto 20px auto;
+  color: white;
+  border-radius: 5px;
+  text-align: center; }
+
+.srvc-pic {
+  width: 100%; }
+
+.about-pic {
+  padding-top: 60px;
+  margin: 0 auto; }
+
+.lifestyleDining p {
+  padding-top: 10px;
+}
+
+.maincontent {
+  float: left; }
+  
+.locmaincontent {
+  padding: 0 80px;
+}
+
+.quickinfo {
+  text-align: center;
+  color:white;
+  background-color:#494949;
+  padding:5px;
+  margin:0;
+}
+
+.trc {
+  background-color: #d1e4d2;
+  padding: 20px; }
+  .trc h2 {
+    text-align: center;
+    padding-bottom: 20px; }
+
+.snc {
+  background-color: #e1ffe1;
+  padding: 20px; }
+  .snc h2 {
+    text-align: center;
+    padding-bottom: 20px; }
+
+.nursinglist {
+  padding: 0 40px; }
+
+.bblink {
+  background-color: #762e3a; }
+
+.crlink {
+  background-color: #026636; }
+
+.lakelink {
+  background-color: #377ac0; }
+
+.wplink {
+  background-color: #33722c; }
+
+.fplink {
+  background-color: #004C3D; }
+
+.avail {
+  height: 80px;
+  padding: 30px 0; }
+
+.col5 {
+  width: 20%;
+  float: left; }
+
+.available {
+  margin-bottom: 50px;
+  padding: 15px; }
+  .available p {
+    text-align: center;
+    color: #fff;
+    margin: 0; }
+
+.learnmore {
+  font-size: 14pt;
+  padding: 10px 0 0 10px; }
+
+.bbform {
+  padding: 20px;
+  border-bottom: 1px dashed green;
+  border-left: 1px dashed green;
+  border-right: 1px dashed green; }
+
+.full-img {
+  width: 400px;
+  margin: 0 auto; }
+
+.form-short {
+  padding: 10px; }
+
+/* Sidebars */
+.sidebar {
+  padding-bottom: 30px; }
+
+.sidebar-right {
+  text-align: center;
+  padding-top: 110px; }
+
+.sidebar-left {
+  padding-top: 40px; }
+
+.sidebar .widget {
+  margin-bottom: 30px; }
+.sidebar h1, .sidebar .h1, .sidebar h2, .sidebar .h2, .sidebar h3, .sidebar .h3 {
+  margin-top: 20px; }
+.sidebar .widget .fiftyyears {
+  width: 200px !important; }
+
+/* Font-Awesome Icon Color */
+.fa {
+  color: #009344 !important; }
+
+/* Footer */
+.locfooter {
+  background-color: #ECECEC;
+  padding: 30px; }
+  .locfooter p, .locfooter h4 {
+    text-align: center; }
+
+.footer1 img {
+  width: 90px;
+}
+.footer1 {
+  background: #232323;
+  padding: 30px 0 0 0;
+  font-size: 12px;
+  color: #999; }
+  .footer1 a {
+    color: #ccc; }
+    .footer1 a:hover {
+      color: #fff; }
+  .footer1 .widget {
+    margin-bottom: 30px; }
+  .footer1 .widget-title {
+    font-size: 17px;
+    font-weight: bold;
+    color: #ccc;
+    margin: 0 0 20px; }
+  .footer1 .entry-meta {
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    margin: 0 0 35px 0;
+    padding: 2px 0;
+    color: #888888;
+    font-size: 12px;
+    font-size: 0.75rem; }
+    .footer1 .entry-meta a {
+      color: #333333; }
+    .footer1 .entry-meta .meta-in {
+      border-top: 1px solid #ccc;
+      border-bottom: 1px solid #ccc;
+      padding: 10px 0; }
+
+.follow-me-icons {
+  font-size: 30px;
+  height: 30px; }
+  .follow-me-icons i {
+    float: left;
+    margin: 0 10px 0 0; }
+
+.footer2 {
+  background: #191919;
+  padding: 15px 0;
+  color: #777;
+  font-size: 12px; }
+  .footer2 a {
+    color: #aaa; }
+    .footer2 a:hover {
+      color: #fff; }
+  .footer2 p {
+    margin: 0; }
+
+.widget-simplenav {
+  margin-left: -5px; }
+  .widget-simplenav a {
+    margin: 0 5px; }
+
+/* Google Maps */
+img[src*="gstatic.com/"], img[src*="googleapis.com/"] {
+  max-width: none; }
+
+#map_canvas {
+  margin: 50px 0 0 0;
+  padding: 0;
+  width: 100%;
+  height: 300px; }
+
+#directionsPanel {
+  top: 0px;
+  right: 0px;
+  width: 100%; }
+
+/* Modernizr */
+.no-cssgradients {
+  background-color: #004C3D; }
+
+.no-textshadow {
+  color: #000; }
+
+
+@media (max-width: 1200px) {
+  .locpan {
+    height:300px;
+  }
+}
+
+@media (max-width: 991px) {
+  .blogcontainer h3 a { 
+    left: 170px;
+  }
+
+}
+
+@media (min-width: 781px) {
+  .dropdown-menu li:hover .sub-menu {
+    visibility: visible; }
+
+  .dropdown:hover .dropdown-menu {
+    display: block; } }
+/* The land of media queries */
+@media (max-width: 780px) {
+
+  .locpan {
+    height:auto;
+  }
+
+
+  .container {
+    width: 100% !important; }
+
+  .srvc-pic {
+    width: 400px;
+    margin: 0 auto;
+    display: block; }
+
+  #head {
+    min-height: 420px;
+    padding-top: 160px; }
+    #head.about {
+      height: 200px !important; }
+    #head .lead {
+      font-size: 34px; }
+
+  .icol {
+    width: 50%; }
+
+  .icol100 {
+    width: 100%; }
+
+  #head.about, #head.services, #head.therapy, #head.skillednursing, #head.assisted-living, #head.independent, #head.memory, #head.hospice, #head.dialysis, #head.bradleybay, #head.centerridge, #head.lakewood, #head.wellington, #head.emp {
+    height: 200px; }
+
+  /* link */
+  .navbar-inverse .navbar-nav .open .dropdown-menu > li > a {
+    color: #009344;
+    font-size: 12pt;
+    padding: 10px 20px; }
+    .navbar-inverse .navbar-nav .open .dropdown-menu > li > a:hover, .navbar-inverse .navbar-nav .open .dropdown-menu > li > a:focus {
+      color: #004C3D;
+      background-color: transparent; }
+  .navbar-inverse .navbar-nav .open .dropdown-menu > .active > a {
+    color: #fff;
+    background-color: #004C3D; }
+    .navbar-inverse .navbar-nav .open .dropdown-menu > .active > a:hover, .navbar-inverse .navbar-nav .open .dropdown-menu > .active > a:focus {
+      color: #fff;
+      background-color: #004C3D; }
+
+  /* link hover*/
+  /* link active*/
+  .slideUp {
+    top: -440px !important; } }
+@media (max-width: 450px) {
+  .blogcontainer h3 a { 
+    left: 0px;
+    width:100%;
+    top:150px;
+  }
+
+.locmaincontent {
+  padding: 0 30px;
+  }
+
+  .logo {
+    width: 100px; }
+
+  #head {
+    min-height: 200px !important;
+    height: auto !important;
+    margin-top: 20px;
+    background-position: 25%; }
+    #head.about, #head.services, #head.therapy, #head.skillednursing, #head.assisted-living, #head.independent, #head.memory, #head.hospice, #head.dialysis, #head.bradleybay, #head.centerridge, #head.lakewood, #head.wellington, #head.emp {
+      margin-top: 75px; }
+
+  .col5 {
+    width: 100%; }
+
+  .res-footer {
+    float: left; }
+
+  .res-footer-txt {
+    text-align: center;
+    padding: 20px 0; } }
+
